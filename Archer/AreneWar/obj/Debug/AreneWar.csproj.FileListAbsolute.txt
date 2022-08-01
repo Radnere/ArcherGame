@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Рабочий стол\ArenaWar-c-sharp-master\Part1-4\AreneWar\bin\Debug\AreneWar.exe.config
+C:\Users\user\OneDrive\Рабочий стол\ArenaWar-c-sharp-master\Part1-4\AreneWar\bin\Debug\AreneWar.exe
+C:\Users\user\OneDrive\Рабочий стол\ArenaWar-c-sharp-master\Part1-4\AreneWar\bin\Debug\AreneWar.pdb
+C:\Users\user\OneDrive\Рабочий стол\ArenaWar-c-sharp-master\Part1-4\AreneWar\obj\Debug\AreneWar.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\ArenaWar-c-sharp-master\Part1-4\AreneWar\obj\Debug\AreneWar.Form1.resources
+C:\Users\user\OneDrive\Рабочий стол\ArenaWar-c-sharp-master\Part1-4\AreneWar\obj\Debug\AreneWar.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\ArenaWar-c-sharp-master\Part1-4\AreneWar\obj\Debug\AreneWar.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\ArenaWar-c-sharp-master\Part1-4\AreneWar\obj\Debug\AreneWar.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\ArenaWar-c-sharp-master\Part1-4\AreneWar\obj\Debug\AreneWar.exe
+C:\Users\user\OneDrive\Рабочий стол\ArenaWar-c-sharp-master\Part1-4\AreneWar\obj\Debug\AreneWar.pdb
